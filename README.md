@@ -79,11 +79,17 @@ Manual diagnosis of brain tumors from MRI scans is time-consuming and prone to h
      ```bash
     python test_model.py
 
-Author
+## Author
 
 K.Gnanendra Reddy 
-	 •	LinkedIn: https://www.linkedin.com/in/gnanendra494/
-	 •	Email: gnanendragnana143@gmail.com
+
+ •	LinkedIn: 
+ 
+    https://www.linkedin.com/in/gnanendra494/    
+  
+ •	Email: 
+      
+	gnanendragnana143@gmail.com
 
 ## License
 
